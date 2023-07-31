@@ -52,9 +52,3 @@ PHP has a vast and active community of developers willing to help and share know
 If you find any issues with this repository or want to contribute, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
 Happy coding! 🚀
-
-If you find any issues with this repository or want to contribute, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
-
-Happy coding! 🚀
-
-(Note: This README.md is just a template. Feel free to modify and add specific content based on the actual content of your Learn PHP Programming repository.)
